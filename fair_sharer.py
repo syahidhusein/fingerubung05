@@ -1,7 +1,3 @@
-import math
-import numpy as np
-
-
 
 def fair_sharer(values, num_iterations, share=0.1):
     """Runs num_iterations.
