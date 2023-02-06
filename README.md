@@ -1,2 +1,2 @@
 # fingerubung05
-dummy repo for fingerubung05
+Repository for Portfolio Part 3.5
